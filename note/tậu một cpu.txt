@@ -1,0 +1,2 @@
+xeon e3 1275 có GPU (thường thì xeon sẽ không có GPU, con này thì có GPU)
+4 nhân, 8 luồng (max cập của bo mạch đan dùng, chipset c226)

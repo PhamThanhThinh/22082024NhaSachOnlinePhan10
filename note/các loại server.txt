@@ -1,0 +1,22 @@
+VPS Server
+Cloud Server
+Máy ảo (giá tương đối)
+Máy thật (đắt)
+Web Hosting (dịch vụ cố định
+không thể cài thêm, 
+giá bình thường)
+
+upcode lên server
+
+cơ sở dữ liệu
+mssql
+mysql
+
+máy chủ web
+nginx
+engineX
+
+
+quản trị bằng
+wordpress (hoặc cái khác ...)
+hoặc tự code trang quản trị

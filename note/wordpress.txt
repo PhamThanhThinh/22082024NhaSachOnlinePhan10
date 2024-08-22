@@ -1,0 +1,128 @@
+Debian
+Ubuntu
+Lý do tìm hiểu  WordPress
+(code PHP cho WordPress)
+Thịnh có 1 con VPS Linux để trống thì phí nên dùng luôn để tìm hiểu về WordPress
+Đến thứ 6 Thịnh sẽ phát trực tiếp .net lại
+project nhà sách online còn dài
+project food online
+project đào tạo trực tuyến online
+vps 1 cpu 2 gb
+(chạy môi trường dòng lệnh)
+tự học thông qua các tài nguyên trên mạng
+
+MariaDB/MySQL
+phpMyAdmin
+
+Linux thường được dùng làm server (thị phần server linux nhiều server windows), 
+công ty thường dùng Linux hơn để làm máy chủ (máy chủ nội bộ: lưu trữ tài liệu project)
+cài phpMyAdmin
+cần chọn web server (được chứa trong VPS)
+ở đây Thịnh cài nginx (hoặc các anh em có thể cài xampp apache)
+
+sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+phpmyadmin tương thích với mysql 
+xampp (apache) 
+vps Thịnh cài
+nginx
+mariaDB
+
+0 là giá trị false
+1 là giá trị true
+mã nhị phân
+
+cài mysql
+sudo apt install mysql-server
+cài phpmyadmin
+sau đó chạy lệnh
+mysql -u root -p
+
+
+
+sudo systemctl start mysql-server
+
+kiểm tra các gói mysql và php
+dpkg -l | grep mysql
+
+xóa phpmyadmin
+sudo apt-get remove --purge phpmyadmin
+
+mysql-server-8.0
+
+mysql-server-8.0
+
+sudo systemctl start mysql-server-8.0
+
+/usr/bin/dpkg
+
+Cộng Đồng Học Lập Trình Web Với WordPress
+
+cd /usr
+
+Cộng Đồng Học Lập Trình C/C++
+
+Phân Tích Kết Quả
+mysql-client-8.0: Đã được cài đặt hoàn toàn và đúng cách.
+mysql-client-core-8.0: Đã được cài đặt hoàn toàn và đúng cách.
+mysql-common: Đã được cài đặt hoàn toàn và đúng cách.
+mysql-server: Đây là gói meta để phụ thuộc vào phiên bản MySQL server mới nhất, trạng thái iU cho thấy có thể đang ở trạng thái cập nhật chưa hoàn tất.
+mysql-server-8.0: Đã bị gỡ bỏ một phần (được gỡ bỏ nhưng một số tệp cấu hình hoặc dữ liệu còn lại).
+mysql-server-core-8.0: Đã được cài đặt hoàn toàn và đúng cách.
+php7.4-mysql: Đã được cài đặt hoàn toàn và đúng cách.
+
+
+Các Ký Hiệu và Ý Nghĩa
+ii: Gói đã được cài đặt hoàn toàn và đúng cách.
+iU: Gói đã được cài đặt nhưng đang ở trạng thái cập nhật chưa hoàn tất (Installation is Unfinished).
+rF: Gói đã bị gỡ bỏ nhưng các tệp cấu hình còn lại trên hệ thống.
+ic: Gói đã được cài đặt nhưng có vấn đề với cấu hình (Configuration issues present).
+
+
+nginx xung đột
+
+alibaba Thịnh chưa thấy chỗ để reinstall
+huaweicloud có thể reinstall
+
+
+
+sudo apt-get install ubuntu-desktop xrdp stacer -y
+
+sudo cp /etc/iptables/rules.v4 /etc/iptables/rules.v4.bak && sudo truncate -s 0 /etc/iptables/rules.v4
+
+sudo rm /usr/share/polkit-1/actions/org.freedesktop.color.policy
+
+server (chủ yếu là server linux)
+
+Stacer
+
+VPS có cấu hình
+1cpu 1gb ram
+1cpu 2gb ram
+chỉ nên cài và sử dụng linux server command line (không GUI)
+(nếu sử dụng GUI sẽ rất lad, kể cả cài ubuntu hoặc windows)
+
+install phpmyadmin
+
+vps linux dùng ổn định với:
+nginx
+mariaDB
+php
+cài không bị lỗi
+cài bằng câu lệnh này: sudo apt install nginx mariadb-server php-mysql php-curl php-gd php-zip php-fpm
+cài thêm wordpress
+
+
+
+sudo apt update
+sudo apt upgrade
+
+Một là dùng
+nginx
+mariaDB
+php
+Hai là dùng
+apache
+mysql
+php + phpmyadmin
+
+

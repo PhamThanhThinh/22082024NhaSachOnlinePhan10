@@ -1,0 +1,26 @@
+VPS để lưu trữ database, lưu code, máy chủ web (chạy 24/24)
+tên miền: domain (đăng ký chính chủ) -> xác minh thông tin
+-> được domain (tên miền) -> cấu hình DNS (mapping cái tên miền với ip máy chủ vps) chỗ mà mình mua tên miền sẽ có chỗ để mình cấu hình DNS
+
+VPS cài những dịch vụ nào: mysql, php (ma..., biểu tượng con hải cẩu), nginx (máy chủ web/web server), 
+
+IIS (trong windows, đối với vps windows): cấu hình bằng giao diện
+nginx (trong linux, đối với vps linux):
+nginx dễ dàng cấu hình bằng dòng lệnh
+
+
+www/workpress
+
+
+Phỏng vấn tùy bạn mà thời lượng ngắn hay dài
+
+- Thích gì? Thích ASP.NET Core (trong công việc)
+- ASP.NET Core đã có bao nhiêu phiên bản? kể ra
+- Phiên bản mới nhất hiện tại là phiên bản nào? .net 9
+- Trong CV có project đã làm
+Sẽ hỏi các công nghệ được dùng trong project đó (tập trung vô các công nghệ đó luôn)
+Các chức năng: ví dụ project làm chức năng chủ yếu về đặt hàng, thì sẽ hỏi tập trung vô chức đó luôn
+
+Trả lời được nhiều thì thời gian phỏng vấn sẽ dài ra
+
+
